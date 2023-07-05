@@ -1,0 +1,4 @@
+#### CP - consistency and partition tolerance
+
+Waiting for a response from the partitioned node might result in a timeout error.  CP is a good choice if your business needs require atomic reads and writes.
+

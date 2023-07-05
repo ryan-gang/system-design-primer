@@ -1,0 +1,3 @@
+## Availability patterns
+
+There are two complementary patterns to support high availability: **fail-over** and **replication**.

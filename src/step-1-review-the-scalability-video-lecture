@@ -1,0 +1,12 @@
+### Step 1: Review the scalability video lecture
+
+[Scalability Lecture at Harvard](https://www.youtube.com/watch?v=-W9F__D3oY4)
+
+* Topics covered:
+    * Vertical scaling
+    * Horizontal scaling
+    * Caching
+    * Load balancing
+    * Database replication
+    * Database partitioning
+
